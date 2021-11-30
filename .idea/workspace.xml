@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="644f5314-1461-4561-b4e8-bb7bb4daaec1" name="Changes" comment="security group id changed" />
+    <list default="true" id="644f5314-1461-4561-b4e8-bb7bb4daaec1" name="Changes" comment="frontend component updated">
+      <change afterPath="$PROJECT_DIR$/Terraform-Module/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform-Module/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform-Module/vars.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +51,14 @@
       <option name="presentableId" value="Default" />
       <updated>1638021436785</updated>
     </task>
+    <task id="LOCAL-00001" summary="frontend component updated">
+      <created>1638264989369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638264989369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,6 +76,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="security group id changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="security group id changed" />
+    <MESSAGE value="frontend component updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="frontend component updated" />
   </component>
 </project>
