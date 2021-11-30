@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="644f5314-1461-4561-b4e8-bb7bb4daaec1" name="Changes" comment="frontend component updated">
-      <change afterPath="$PROJECT_DIR$/Terraform-Module/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Terraform-Module/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Terraform-Module/vars.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Terraform-Module/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/Terraform-Module/main.tf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638264989369</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="frontend component updated">
+      <created>1638266140468</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638266140468</updated>
+    </task>
+    <task id="LOCAL-00003" summary="frontend component updated">
+      <created>1638266304750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638266304750</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

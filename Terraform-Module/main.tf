@@ -1,6 +1,5 @@
 module "cart" {
- source              ="git::https://github.com/kana-Gayatri/terraform-mutable.git//terraform-,utable/app-module"
-# source              ="git::https://github.com/kana-Gayatri/terraform-mutable.git/terraform-mutable//app-module"
+ source              ="git::https://github.com/kana-Gayatri/terraform-mutable.git//app-module"
 
   INSTANCE_TYPE       = var.INSTANCE_TYPE
   ENV                 = var.ENV
